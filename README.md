@@ -1,7 +1,7 @@
 # orbit-titan
 this is my github demo
 <br>
-Author - YAJAT BHARGAVA
+Author - YAJAT (12th passed)
 <br>
 From Career Point University 
 <br>
